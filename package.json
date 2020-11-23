@@ -1,0 +1,33 @@
+{
+  "name": "remax-testing-library",
+  "version": "0.1.0",
+  "description": "Simple and complete Remax testing utilities that encourage good testing practices. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hackers267/remax-testing-library.git"
+  },
+  "keywords": [
+    "remax",
+    "test",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackers267/remax-testing-library/issues"
+  },
+  "homepage": "https://github.com/hackers267/remax-testing-library#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/react": "^17.0.0",
+    "jest": "^26.6.3",
+    "react": "^17.0.1",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^26.4.4",
+    "typescript": "^4.1.2"
+  }
+}
